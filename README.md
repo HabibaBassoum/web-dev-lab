@@ -4,3 +4,4 @@ Mthuzi Banda
 
 Lab Description
  This lab demonstrates the creation of a simple web page including basic Git and GitHub operations such as a repository setup, branching, merging and a collaboration task.
+ It also teaches how to fork a repository and create pull requests.
